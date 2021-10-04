@@ -1,0 +1,6 @@
+_comport = ['COM1','COM2','COM3','COM4','COM5','COM6','COM7','COM8','COM9','COM10','COM11','COM12','COM13','COM14','COM15','COM16','COM17','COM18','COM19','COM20']
+type_connect = ['rtu','ascii','binary']
+baudrate = ['9600','19200','57600','115200']
+data_bit = ['8','7']
+stop_bit = ['1','2']
+parity = ['N','O', 'E']
